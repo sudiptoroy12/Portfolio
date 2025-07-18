@@ -4,7 +4,7 @@ import Home from "./components/home/Home"
 
 import Projects from "./components/projects/Projects";
 import Contact from "./components/contact/Contact";
-import About from "./components/about/about";
+import About from "./components/about/About"
 import Skill from "./components/skill/Skill";
 
 
@@ -14,12 +14,12 @@ import Skill from "./components/skill/Skill";
 
 function App() {
  
-
+ 
   return (
     <>
    
    <Home/>
-   <About/>
+    <About/>
    <Skill/>
    <Projects/>
    <Contact/>

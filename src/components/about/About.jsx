@@ -1,7 +1,7 @@
 import React from "react";
 
 import man from "../../assets/man.png";
-import Card from "../card/Card";
+
 
 const About = () => {
   return (
